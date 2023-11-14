@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Python, React.js in Seneca College
 
-- 🔭 I would love for you to check out my projects, [modern-resume-theme](https://github.com/sproogen/modern-resume-theme) 
+- 🔭 I would love for you to check out my projects, [reddit-clone-app](https://github.com/YooriLee-825/reddit-app) 
 
 - 📫 You can reach out to me on LinkedIn at [Yoori Lee](https://www.linkedin.com/in/yoori-lee-a0165229b)
 
