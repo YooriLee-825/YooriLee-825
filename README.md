@@ -1,4 +1,4 @@
-<h1 align="center" style="color:black">Hi 👋, I'm Yoori</h1>
+<h1 align="center">Hi 👋, I'm Yoori</h1>
 <h3 align="center">I'm a Junior Web Developer specialising in JavaScript!</h3>
 
 - 🌱 I’m currently learning Python, React.js in Seneca College
