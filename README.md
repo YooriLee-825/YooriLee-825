@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yoori</h1>
 <h3 align="center">I'm a Junior Full Stack Web Developer!</h3>
 
-- 🌱 I’m currently learning Python, React.js in Seneca College
+- 🌱 I’m currently learning Python, React.js, Next.js
 
 - 🔭 I would love for you to check out my projects, [reddit-clone-app](https://github.com/YooriLee-825/reddit-app) 
 
