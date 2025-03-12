@@ -3,7 +3,10 @@
 
 - 🤔 I’m currently working on my project. [YLProfile](https://github.com/YooriLee-825/YLProfile) 
 
-- 🔭 I would love for you to check out my projects, [reddit-clone-app](https://github.com/YooriLee-825/reddit-app) 
+- 🔭 I would love for you to check out my projects, [reddit-clone-app](https://github.com/YooriLee-825/reddit-app)
+
+- 🎓 I’m also running a private tutoring program for **OOP (C++) and Algorithm (Python, LeetCode)**.  
+  You can check out the full curriculum and materials here: [OOP & Algorithm Tutoring](https://github.com/YooriLee-825/DevLee)
 
 - 📫 You can reach out to me on LinkedIn at [Yoori Lee](https://www.linkedin.com/in/yoori-lee-a0165229b)
 
